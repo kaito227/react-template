@@ -2,6 +2,6 @@
 
 React 用テンプレート
 
-## ドキュメント一覧
+## 📓 ドキュメント一覧
 
-- [Create React App](/docs/react-doc.md)
+- [Create React App](/docs/create-react-app.md)
